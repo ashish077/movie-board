@@ -1,0 +1,14 @@
+.heads {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 20px;
+
+  /*background-color: blue;*/
+  border-bottom: 1px solid #a9adac;
+}
+header h1 {
+  font-size: 50px;
+  color: #e27a3f;
+  font: Times, Times New Roman, Georgia, serif;
+}
