@@ -1,5 +1,5 @@
 {
-  "homepage": "https://movieboard.netlify.app",
+  "homepage": "http://172.17.64.1:3000",
   "name": "MOVIE-BOARD",
   "version": "0.1.0",
   "private": true,
@@ -20,8 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
