@@ -17,7 +17,7 @@
 - [ ] The answer demonstrates an understanding that the runtime depends on the number of names that share the same first letter. (2 pt)
 - [ ] $O(n)$ (2 pt)
 - [ ] $\Omega(1)$ (1 pt)
-- [ ] Expected $O(1)$ (1 pt)
+- [ ] Expected $O(n)$ (1 pt)
 - [ ] No $\Theta$ bound (2 pt)
 
 ## Question 4
